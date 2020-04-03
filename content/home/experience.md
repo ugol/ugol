@@ -18,27 +18,120 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Senior Systems Engineer"
+  company = "Confluent"
+  company_url = "https://confluent.io"
+  date_start = "2019-07-23"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+  Helping EMEA companies adopting event streaming and harnessing the power of real-time data
+
+  Solutions designed on top of:
+
+  * Kafka Streaming
+  * Data Design
+  * Confluent Platform
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Principal Solution Architect"
+  company = "Red Hat"
+  company_url = "https://www.redhat.com"
+  date_start = "2012-11-01"
+  date_end = "2019-07-22"
+  description = """Design and proposal of Red Hat middleware solutions for top customers
 
+  Solutions designed on top of:
+
+  * OpenShift/Kubernetes
+  * AMQ & Kafka
+  * Data Grid
+  * Microservices and everything middleware
+  """
+
+[[experience]]
+  title = "Consulting Architect"
+  company = "VMWare"
+  company_url = "https://www.vmware.com"
+  date_start = "2012-08-01"
+  date_end = "2012-10-31"
+  description = """VFabric Architect. Specialized in Spring, Big Data (Gemfire), Messaging (AMQP)
+  """
+
+[[experience]]
+  title = "Cofounder & CTO"
+  company = "YMobe"
+  date_start = "2011-09-01"
+  date_end = "2013-09-30"
+  description = """Independent Game Developing. Pomodoro elected several times as Apple choice of the week"""
+
+[[experience]]
+  title = "Professional Master @ CIO"
+  company = "Poste Italiane"
+  company_url = "https://www.poste.it"
+  date_start = "2008-02-01"
+  date_end = "2012-07-31"
+  description = """"""
+
+[[experience]]  
+  title = "Founder"
+  company = "JUG (Java User Group) Roma"
+  date_start = "2006-01-01"
+  date_end = "2012-01-01"
+  description = """"""
+
+[[experience]]
+  title = "CTO - Chief Technology Officer"
+  company = "Pronetics & Sourcesense"
+  company_url = "https://www.pronetics.it"
+  date_start = "2006-10-01"
+  date_end = "2008-02-01"
+  description = """"""
+
+[[experience]]  
+  title = "Columnist"
+  company = "Java Journal"
+  date_start = "2006-10-01"
+  date_end = "2007-08-01"
+  description = """"""  
+
+[[experience]]
+  title = "Senior Java Architect"
+  company = "Sun Microsystems"
+  company_url = "https://www.sun.com"
+  date_start = "2000-12-01"
+  date_end = "2006-10-31"
+  description = """"""
+
+[[experience]]
+  title = "Consultant"
+  company = "CGIL Regionale Lombardia"
+  company_url = "https://www.cgil.lombardia.it/"
+  date_start = "1998-01-01"
+  date_end = "1999-01-01"
+  description = """"""
+
+[[experience]]
+  title = "Intructor"
+  company = "PRAEL Sistemi"
+  date_start = "1997-01-01"
+  date_end = "1998-01-01"
+  description = """"""
+
+[[experience]]
+  title = "Cofounder"
+  company = "SHARK s.n.c."
+  date_start = "1994-01-01"
+  date_end = "1996-01-01"
+  description = """Founded Shark s.n.c., a MS-Windows based software company targeted to small business
+  """
+
+[[experience]]
+  title = "Consultant"
+  company = "Honeywell Bull"
+  date_start = "1989-01-01"
+  date_end = "1990-01-01"
+  description = """Created and sold to Honeywell BULL my first commercial software for ACI (Automobil Club Italia)
+  """  
 +++
