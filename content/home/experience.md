@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   company = "VMWare"
   company_url = "https://www.vmware.com"
   date_start = "2012-08-01"
-  date_end = "2012-10-31"
+  date_end = "2012-11-01"
   description = """VFabric Architect. Specialized in Spring, Big Data (Gemfire), Messaging (AMQP)
   """
 
