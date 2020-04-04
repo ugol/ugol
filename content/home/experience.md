@@ -75,11 +75,19 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]  
+  title = "Founder & CTO"
+  company = "Javaday/Codemotion"
+  company_url = "https://www.codemotion.com/"
+  date_start = "2007-01-01"
+  date_end = "2015-01-01"
+  description = """The first Italian Java Conference, which then became a generic IT Conference"""
+
+[[experience]]  
   title = "Founder"
   company = "JUG (Java User Group) Roma"
   date_start = "2006-01-01"
   date_end = "2012-01-01"
-  description = """"""
+  description = """Organization of local JUG meetings"""
 
 [[experience]]
   title = "CTO - Chief Technology Officer"
@@ -94,7 +102,7 @@ date_format = "Jan 2006"
   company = "Java Journal"
   date_start = "2006-10-01"
   date_end = "2007-08-01"
-  description = """"""  
+  description = """Regular columnist for Java Journal, the first italian Java magazine."""  
 
 [[experience]]
   title = "Senior Java Architect"
@@ -102,7 +110,14 @@ date_format = "Jan 2006"
   company_url = "https://www.sun.com"
   date_start = "2000-12-01"
   date_end = "2006-10-31"
-  description = """"""
+  description = """Worked as a consultant/mentor/coach on EAI projects for top Sun customers"""
+
+[[experience]]
+  title = "CTO - Chief Technology Officer"
+  company = "European Artisans"
+  date_start = "1999-01-01"
+  date_end = "2000-01-01"
+  description = """Designed the architecture for EuropeanArtisans.com, an U.S. Internet start-up. Led a 15 people team"""
 
 [[experience]]
   title = "Consultant"
@@ -110,7 +125,7 @@ date_format = "Jan 2006"
   company_url = "https://www.cgil.lombardia.it/"
   date_start = "1998-01-01"
   date_end = "1999-01-01"
-  description = """"""
+  description = """Designed the Spiderwork framework to help the development of full Object Oriented n-tier Java/CORBA/EJB applications (Sirena and Netunion). Led a 4 people team. We won a prize for Software Development Best Practice at Softech 2000"""  
 
 [[experience]]
   title = "Intructor"
@@ -130,6 +145,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Consultant"
   company = "Honeywell Bull"
+  compnay_url = "https://www.honeywell.com/"
   date_start = "1989-01-01"
   date_end = "1990-01-01"
   description = """Created and sold to Honeywell BULL my first commercial software for ACI (Automobil Club Italia)
