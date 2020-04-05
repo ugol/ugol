@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
@@ -31,7 +31,14 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Sun Microsystems"
   organization_url = "https://www.sun.com"
-  title = "Sun Certified Java Architect"
+  title = "SJCA Sun Certified Java Architect"
+  date_start = "2000-04-03"
+  description = ""
+
+[[item]]
+  organization = "Sun Microsystems"
+  organization_url = "https://www.sun.com"
+  title = "SJCP Sun Certified Java Programmer"
   date_start = "2000-04-03"
   description = ""
 
