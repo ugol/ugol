@@ -1,10 +1,12 @@
 ---
 title: Pomodoro for Mac
-summary: Pomodoro
+summary: the once very famous Pomodoro for Mac. Been "Apple choice of the week" in GTD several times. 
 tags:
-- Pomodoro
+- pomodoro
 - GTD
-- OSX
+- osx
+- timer
+- mac
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
