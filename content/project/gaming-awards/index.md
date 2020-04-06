@@ -2,8 +2,6 @@
 title: Gaming Awards Streaming project
 summary: A KSQL Demo implementing an online gaming use case
 tags:
-- demo
-- docker
 - KSQL
 - kstreams
 - kafka
