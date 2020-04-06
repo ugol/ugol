@@ -1,6 +1,6 @@
 ---
 title: Pomodoro for Mac
-summary: the once very famous Pomodoro for Mac. Been "Apple choice of the week" in GTD several times. 
+summary: The once very famous Pomodoro for Mac. Been "Apple choice of the week" in GTD several times.
 tags:
 - pomodoro
 - GTD
