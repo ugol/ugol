@@ -1,6 +1,6 @@
 ---
 title: Scala, un linguaggio FOSS
-summary: Introduzione a Scala, OSD 2009
+summary: Introduzione a Scala @ OSD 2009
 tags:
 - scala
 - jvm

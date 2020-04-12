@@ -1,6 +1,6 @@
 ---
 title: JBoss Data Grid Tech Lab
-summary: Codemotion Quick Start Lab
+summary: JDG Tech Lab @ Codemotion 2015
 tags:
 - jdg
 - streaming

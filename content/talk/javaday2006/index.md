@@ -1,6 +1,6 @@
 ---
 title: Concurrency in Java
-summary: Java memory model, JavaDay 2006
+summary: Java memory model @ JavaDay 2006
 tags:
 - concurrency
 - java

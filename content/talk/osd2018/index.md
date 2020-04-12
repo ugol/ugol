@@ -1,6 +1,6 @@
 ---
 title: Cloudify your applications, Microservices and beyond
-summary: Cloud track Open Source Day 2018, Rome & Milan
+summary: Cloud track @ Open Source Day 2018, Rome & Milan
 tags:
 - cloud
 - kafka

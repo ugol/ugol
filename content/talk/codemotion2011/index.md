@@ -1,6 +1,6 @@
 ---
 title: Pubblica il tuo gioco sugli App store in pochi giorni
-summary: Guida pragmatica allo stato dell'arte del Mobile Game Programming, Codemotion 2011
+summary: Guida pragmatica allo stato dell'arte del Mobile Game Programming @ Codemotion 2011
 tags:
 - lua
 - mobile

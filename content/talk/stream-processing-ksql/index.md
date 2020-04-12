@@ -1,6 +1,6 @@
 ---
 title: Building Stream Processing with Apache Kafka
-summary: KSQL talk at Codemotion 2019 Milan
+summary: KSQL talk @ Codemotion 2019 Milan
 tags:
 - kafka
 - KSQL
