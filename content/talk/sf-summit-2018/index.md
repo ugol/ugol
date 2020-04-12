@@ -1,6 +1,6 @@
 ---
 title: How to build a European scale Instant Payments platform
-summary: JDG talk @ Red Hat Summit, San Francisco
+summary: JDG talk @ Red Hat Summit, San Francisco 2018
 tags:
 - jdg
 - summit

@@ -6,6 +6,8 @@ tags:
 - KSQL
 - ksqlDB
 - kstream
+- confluent
+- streaming
 date: "2019-10-25T00:00:00Z"
 
 image:
@@ -14,3 +16,5 @@ image:
 ---
 
 KSQL Talk @ Codemotion 2019 Milan
+
+https://www.codemotion.com/talks/building-stream-processing-applications-with-apache-kafka-15752
