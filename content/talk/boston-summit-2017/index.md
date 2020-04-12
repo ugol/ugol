@@ -1,5 +1,5 @@
 ---
-title: Hands on HACEP: Highly available and horizontally scalable complex event processing
+title: Hands on HACEP Highly available and horizontally scalable complex event processing
 summary: HACEP talk & lab @ Red Hat Summit, Boston
 tags:
 - jdg
