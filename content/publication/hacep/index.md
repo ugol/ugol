@@ -15,7 +15,7 @@ tags:
 - jgroups
 - amq
 - streaming
-date: "2016-08-27T00:00:00Z"
+date: "2016-08-01T00:00:00Z"
 
 image:
   caption: HACEP

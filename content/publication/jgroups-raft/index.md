@@ -7,7 +7,7 @@ tags:
 - java
 - consensus
 - distributed
-date: "2015-07-27T00:00:00Z"
+date: "2015-07-14T00:00:00Z"
 
 image:
   caption: JGroups Raft
