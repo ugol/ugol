@@ -1,6 +1,6 @@
 ---
 title: Creare applicazioni "streaming" con Confluent Platform, Kafka e KSQL
-summary: Webinar in Italiano su Kafka e cloud native
+summary: Webinar in Italiano su Kafka e cloud native, 2019
 tags:
 - kafka
 - streaming
@@ -9,7 +9,6 @@ tags:
 - kstream
 - webinar
 - confluent
-- webinar
 date: "2020-01-15T00:00:00Z"
 
 image:
