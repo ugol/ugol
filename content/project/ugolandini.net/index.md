@@ -12,6 +12,6 @@ date: "2016-04-27T00:00:00Z"
 external_link: https://web.archive.org/web/20000528125801/http://www.ugolandini.net/index.html
 
 image:
-  caption: ugolandini
+  caption: ugolandini.net
   focal_point: Smart
 ---
