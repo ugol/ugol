@@ -1,6 +1,6 @@
 ---
 title: First Java course on Italian National TV
-summary: dvanced Java course, Uninettuno 2001
+summary: Advanced Java course, Uninettuno 2001
 tags:
 - uninettuno
 - java
