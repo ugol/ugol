@@ -27,7 +27,7 @@ date_format = "Jan 2006"
 
   Helping EMEA companies adopting event streaming and harnessing the power of real-time data
 
-  Solutions designed on top of:
+  Solutions built on top of:
 
   * Kafka Streaming
   * Data Design
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   company_url = "https://www.redhat.com"
   date_start = "2012-11-01"
   date_end = "2019-07-22"
-  description = """Design and proposal of Red Hat middleware solutions for top customers
+  description = """Design and proposal of middleware solutions for top Red Hat customers
 
   Solutions designed on top of:
 
