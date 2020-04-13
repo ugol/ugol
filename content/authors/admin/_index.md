@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-I have more than 20 years experience in software development and IT industry. I have matured a significant competency in distributed applications, starting in the other century when it wasn't even a buzzword - [JINI](https://en.wikipedia.org/wiki/Jini), anyone? I have worked as a designer, lead architect or coach in many different projects for many different companies.
+I have more than 25 years experience in software development and IT industry. I have matured a significant competency in distributed applications, starting in the other century when it wasn't even a buzzword - [JINI](https://en.wikipedia.org/wiki/Jini), anyone? I have worked as a designer, lead architect or coach in many different projects for many different companies.
 I had the chance to work with a lot of methods, processes and tools and had the opportunity to teach and talk about what I have learned in ILT (Instructor's Led Training) courses, in seminars in front of hundreds of people, at the University as well as on [national TV](../talk/uninettuno), greatly enhancing my communication skills.
