@@ -100,6 +100,7 @@ date_format = "Jan 2006"
 [[experience]]  
   title = "Columnist"
   company = "Java Journal"
+  company_url="https://web.archive.org/web/20070205015851/http://www.javajournal.it/blog/"
   date_start = "2006-10-01"
   date_end = "2007-08-01"
   description = """Regular columnist for Java Journal, the first italian Java magazine."""  
@@ -115,6 +116,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "CTO - Chief Technology Officer"
   company = "European Artisans"
+  company_url = "https://web.archive.org/web/20010401144719/http://www.europeanartisans.com/"
   date_start = "1999-01-01"
   date_end = "2000-01-01"
   description = """Designed the architecture for EuropeanArtisans.com, an U.S. Internet start-up. Led a 15 people team"""
@@ -128,11 +130,12 @@ date_format = "Jan 2006"
   description = """Designed the Spiderwork framework to help the development of full Object Oriented n-tier Java/CORBA/EJB applications (Sirena and Netunion). Led a 4 people team. We won a prize for Software Development Best Practice at Softech 2000"""  
 
 [[experience]]
-  title = "Intructor"
+  title = "Instructor"
   company = "PRAEL Sistemi"
   date_start = "1997-01-01"
   date_end = "1998-01-01"
-  description = """"""
+  description = """Instructor of Object Oriented languages (C++, Java) Object Based environment (Forté), Client/Server, Relational Database, and other courseware
+  """
 
 [[experience]]
   title = "Cofounder"
@@ -145,7 +148,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Consultant"
   company = "Honeywell Bull"
-  compnay_url = "https://www.honeywell.com/"
+  company_url = "https://www.honeywell.com/"
   date_start = "1989-01-01"
   date_end = "1990-01-01"
   description = """Created and sold to Honeywell BULL my first commercial software for ACI (Automobil Club Italia)
