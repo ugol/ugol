@@ -53,6 +53,9 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/ugolandini/
+- icon: telegram
+  icon_pack: fab
+  link: https://telegram.me/@ugolandini
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
