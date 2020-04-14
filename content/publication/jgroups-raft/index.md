@@ -14,6 +14,4 @@ image:
   focal_point: Smart
 ---
 
-INFOQ Introduction to RAFT
-
-https://www.infoq.com/articles/JGroups-raft-Primer/
+INFOQ [Introduction to RAFT](https://www.infoq.com/articles/JGroups-raft-Primer/), written when I was bootstrapping the [JGroups-raft project](https://github.com/belaban/jgroups-raft).

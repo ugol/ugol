@@ -22,6 +22,5 @@ image:
   focal_point: Smart
 ---
 
-HACEP project has been published as a Reference Architecture for Highly Available Complex Event Processing.
-
-https://www.redhat.com/cms/managed-files/mi-highly-available-complex-event-processing-brms-reference-architecture-201610-en.pdf
+HACEP project has been published as a [Reference Architecture](https://www.redhat.com/cms/managed-files/mi-highly-available-complex-event-processing-brms-reference-architecture-201610-en.pdf
+) for Highly Available Complex Event Processing.
