@@ -1,6 +1,6 @@
 ---
-title: Interview a Simone Bordet
-summary: Interview a Simone Bordet @ Codemotion 2012, Roma
+title: Intervista a Simone Bordet
+summary: Intervista a Simone Bordet @ Codemotion 2012, Roma
 tags:
 - interview
 - codemotion

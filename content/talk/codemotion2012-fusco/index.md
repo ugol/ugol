@@ -1,6 +1,6 @@
 ---
-title: Interview a Mario Fusco
-summary: Interview a Mario Fusco @ Codemotion 2012, Roma
+title: Intervista a Mario Fusco
+summary: Intervista a Mario Fusco @ Codemotion 2012, Roma
 tags:
 - interview
 - codemotion
