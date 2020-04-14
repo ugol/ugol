@@ -12,4 +12,4 @@ image:
   focal_point: Smart
 ---
 
-Fragile Base Class problem article written for [Mokabyte](https://web.archive.org/web/20041207225034/http://www2.mokabyte.it/2004/06/fbc.htm)
+Fragile Base Class problem article written for Mokabyte, read it [here](https://web.archive.org/web/20041207225034/http://www2.mokabyte.it/2004/06/fbc.htm)
