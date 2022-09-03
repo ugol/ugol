@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ugo Landini
+title: Ugo Landini
 
 # Username (this should match the folder name)
 authors:

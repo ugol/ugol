@@ -1,6 +1,6 @@
 ---
 title: Il valore di kafka in un mondo cloud native
-summary: Webinar in Italiano su Kafka e cloud native, 2019
+summary: Webinar in italiano su Kafka e Cloud native, 2019
 tags:
 - kafka
 - streaming
