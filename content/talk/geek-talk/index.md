@@ -1,6 +1,6 @@
 ---
 title: Geek talk 
-summary: Geek talk @ Extraordy 2022 
+summary: Geek talk @ Extraordy, 2022 
 tags:
 - OSS
 - java
