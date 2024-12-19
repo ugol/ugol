@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Solutions Engineer
+role: Solutions Engineer Manager
 
 # Organizations/Affiliations
 organizations:
