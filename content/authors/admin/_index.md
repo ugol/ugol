@@ -44,15 +44,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ugolandini/    
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ugolandini
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/ugol70
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/ugolandini/
 - icon: telegram
   icon_pack: fab
   link: https://t.me/ugolandini
