@@ -18,11 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Senior Solutions Engineer Manager"
+  company = "Confluent"
+  company_url = "https://confluent.io"
+  date_start = "2023-01-01"
+  date_end = ""
+  description = """
+
+  Managing Italy & Iberia Solution Engineering group
+  """
+
+[[experience]]
   title = "Senior Solutions Engineer"
   company = "Confluent"
   company_url = "https://confluent.io"
   date_start = "2019-07-23"
-  date_end = ""
+  date_end = "2022-12-31"
   description = """
 
   Helping EMEA companies adopting event streaming and harnessing the power of real-time data
